@@ -24,4 +24,15 @@ You can click the Preview link to take a look at your changes.
 ---
 [![](https://visitcount.itsvg.in/api?id=Konika&icon=7&color=10)](https://visitcount.itsvg.in)
 
+## 🌐 Socials:
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Konika&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Konika&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Konika&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Konika&icon=7&color=10)](https://visitcount.itsvg.in)
+
 
