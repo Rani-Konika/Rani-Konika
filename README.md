@@ -17,10 +17,10 @@ I am a begginer learner of deep learning platform. I try to combine the deep lea
 </p>
 
 <p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mejbahahammad/competition/light&quot" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mejbahahammad/dataset/light&quot" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mejbahahammad/notebook/light&quot" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mejbahahammad/discussion/light&quot" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/konikarani/competition/light&quot" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/konikarani/dataset/light&quot" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/konikarani/notebook/light&quot" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/konikarani/discussion/light&quot" />
 </p>
 
 
