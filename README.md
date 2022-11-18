@@ -5,6 +5,22 @@
 - 💞️ I’m looking to collaborate on Laser Technology using Deep Neural Network
 - 📫 How to reach me ...konika5622@gmail.com
 - 
+<p align="center">
+
+  <br/>
+  <p align="center">🥇My Kaggle Tier & Medals 🥇</p>
+ 
+</p>
+<p align="center">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/konikarani/competition/light&quot; />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/konikarani/dataset/light&quot; />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/konikarani/notebook/light&quot; />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/konikarani/discussion/light&quot; />
+</p>
+
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkonikarani%2Fkaggle-badge&count_bg=%23DDAA17&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+![konikarani](https://road-to-kaggle-grandmaster.vercel.app/api/simple/konikarani)
 
 <!---
 Rani-Konika/Rani-Konika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,15 +40,6 @@ You can click the Preview link to take a look at your changes.
 ---
 [![](https://visitcount.itsvg.in/api?id=Konika&icon=7&color=10)](https://visitcount.itsvg.in)
 
-## 🌐 Socials:
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Konika&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Konika&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Konika&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Konika&icon=7&color=10)](https://visitcount.itsvg.in)
 
 
