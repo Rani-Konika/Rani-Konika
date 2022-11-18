@@ -1,21 +1,26 @@
+# 💫 About Me:
+
+I am a begginer learner of deep learning platform. I try to combine the deep learning with laser processing techniques. Now, I am a graduate student at Osaka University, Japan. I am very interested about machine learning, deep learning and data science.
+
 - 👋 Hi, I’m @Rani-Konika
 - 🔭I am currently working at Osaka University,Japan
 - 👀 I’m interested in Laser Technology, Laser Surface processing
 - 🌱 I’m currently learning Deep Learning, Machine Learning & Data Science
 - 💞️ I’m looking to collaborate on Laser Technology using Deep Neural Network
-- 📫 How to reach me ...konika5622@gmail.com
-- 
+- 📫 How to reach me ...konika5622@gmail.com and [LinkedIn](https://www.linkedin.com/in/konika-sarker-abaa03224/) 
+- ⚡Fun fact: Nothing
 <p align="center">
 
   <br/>
   <p align="center">🥇My Kaggle Tier & Medals 🥇</p>
  
 </p>
+
 <p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/konikarani/competition/light&quot; />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/konikarani/dataset/light&quot; />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/konikarani/notebook/light&quot; />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/konikarani/discussion/light&quot; />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mejbahahammad/competition/light&quot; />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mejbahahammad/dataset/light&quot; />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mejbahahammad/notebook/light&quot; />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mejbahahammad/discussion/light&quot; />
 </p>
 
 
