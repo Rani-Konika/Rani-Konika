@@ -7,7 +7,7 @@ I am a begginer learner of deep learning platform. I try to combine the deep lea
 - 👀 I’m interested in Laser Technology, Laser Surface processing
 - 🌱 I’m currently learning Deep Learning, Machine Learning & Data Science
 - 💞️ I’m looking to collaborate on Laser Technology using Deep Neural Network
-- 📫 How to reach me: [Gmail](konika5622@gmail.com) and [LinkedIn](https://www.linkedin.com/in/konika-sarker-abaa03224/) 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/konika-sarker-abaa03224/) 
 - ⚡Fun fact: Nothing
 <p align="center">
 
