@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I am a begginer learner of deep learning platform. I try to combine the deep learning with laser processing techniques. Now, I am a graduate student at Osaka University, Japan. I am very interested about machine learning, deep learning and data science.
+I am a developer of deep learning. I try to combine the deep learning with high-power laser surface processing techniques. Now, I am a graduate student at Osaka University, Japan. I am very interested about machine learning, deep learning, IoT and data science.
 
 - 👋 Hi, I’m @Rani-Konika
 - 🔭I am currently working at Osaka University,Japan
